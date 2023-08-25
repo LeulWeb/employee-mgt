@@ -1,0 +1,1 @@
+<a href="http://localhost/employee/auth/">Logout</a>
